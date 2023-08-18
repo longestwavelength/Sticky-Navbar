@@ -7,5 +7,4 @@ function chngNav() {
     } else {
         nav.classList.remove('active')
     }
-    console.log(window.scrollY)
 }
